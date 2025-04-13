@@ -8,4 +8,5 @@
     <li>Export Default</li>
     <li>Desestruturação</li>
     <li>Feature Flag</li>
+    <li>Modularização</li>
 </ul>
